@@ -1,5 +1,4 @@
-# text-utils-app
-TextUtils
+# TextUtils
 TextUtils is a React-based web application designed to make text editing and analysis effortless and efficient. Whether you are a student, writer, or professional, TextUtils provides a suite of powerful tools to manage and manipulate text quickly and easily.
 
 # Features
