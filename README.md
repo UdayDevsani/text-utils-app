@@ -19,7 +19,7 @@ Ensure you have the following installed on your local machine:
 1. Clone the repo:
 sh
 2. Copy code
-  git clone https://github.com/your-username/textutils.git
+  git clone https://github.com/UdayDevsani/text-utils-app.git
 3. Navigate to the project directory:
    sh
 4. Copy code
